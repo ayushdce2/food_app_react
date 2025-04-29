@@ -1,0 +1,27 @@
+.separator{
+    padding: 1rem;
+    /* background-color: #ddd; */
+    
+}
+.bodyRestCards{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    /* justify-content: center; */
+}
+.bodyWrap{
+    padding: 1rem;
+}
+.bodyRow1Unit{
+    display: flex;
+    gap:1rem;
+}
+.bodyRow2Unit{
+    display: flex;
+    gap:1rem;
+}
+.bodyRow3Unit{
+    display: flex;
+    gap:1rem;
+    flex-wrap: wrap;
+}
